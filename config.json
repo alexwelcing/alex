@@ -1,7 +1,7 @@
 {
-  "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
+  "base_url": "https://alexwelcing.com",
   "site_title": "Alex Welcing dot com",
-  "site_description": "NextJS blog on Netlify for sharing content.",
+  "site_description": "Alex Welcing homepage for all Alex Welcing related inquiries.",
   "site_keywords": [
     {
       "keyword": "Alex"
@@ -19,7 +19,7 @@
       "keyword": "Netlify"
     }
   ],
-  "posts_per_page": 5,
+  "posts_per_page": 10,
   "twitter_account": "@alexwelcing",
   "github_account": "alexwelcing"
 }
