@@ -13,3 +13,17 @@ tags:
     name: markdown
   - slug: tech
     name: tech
+  - slug: development
+    name: development
+  - slug: leadership
+    name: leadership
+  - slug: marketing
+    name: marketing
+  - slug: strategy
+    name: strategy
+  - slug: product
+    name: product
+  - slug: artificial-intelligence
+    name: artificial intelligence
+  - slug: media
+    name: media

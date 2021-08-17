@@ -23,7 +23,7 @@ export default function Navigation() {
                   router.pathname.startsWith("/posts") ? "active" : null
                 }
               >
-                Documentation
+                Docs
               </a>
             </Link>
           </li>
