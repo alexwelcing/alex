@@ -1,29 +1,19 @@
 tags:
-  - slug: document
-    name: document
-  - slug: mock
-    name: mock
-  - slug: style
-    name: style
-  - slug: license
-    name: license
-  - slug: mdx
-    name: mdx
-  - slug: markdown
-    name: markdown
-  - slug: tech
-    name: tech
-  - slug: development
-    name: development
-  - slug: leadership
-    name: leadership
-  - slug: marketing
-    name: marketing
-  - slug: strategy
-    name: strategy
   - slug: product
     name: product
+  - slug: development
+    name: development
+  - slug: strategy
+    name: strategy
+  - slug: tech
+    name: tech
+  - slug: marketing
+    name: marketing
+  - slug: leadership
+    name: leadership
   - slug: artificial-intelligence
     name: artificial intelligence
   - slug: media
     name: media
+  - slug: documentation
+    name: documentation
