@@ -17,3 +17,7 @@ tags:
     name: media
   - slug: documentation
     name: documentation
+  - slug: health
+    name: health
+  - slug: publishing
+    name: publishing
