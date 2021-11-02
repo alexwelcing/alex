@@ -21,3 +21,5 @@ tags:
     name: health
   - slug: publishing
     name: publishing
+  - slug: video
+    name: video
